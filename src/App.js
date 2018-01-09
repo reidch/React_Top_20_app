@@ -5,7 +5,8 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <SongsContainer />
+      <SongsContainer
+      title="UK Top 20 Songs, compiled by iTunes"/>
     );
   }
 }
